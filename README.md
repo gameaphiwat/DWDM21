@@ -6,11 +6,3 @@ Data Warehouse &amp; Data Mining 2021
 Group Name
 
 1 **อภิวัฒน์** **เหลี่ยมสิงขร**
-
-2
-
-3
-
-4
-
-5
