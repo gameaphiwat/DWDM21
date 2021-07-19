@@ -3,7 +3,7 @@ Data Warehouse &amp; Data Mining 2021
 
 นายอภิวัฒน์ เหลี่ยมสิงขร 623020545-4
 
-Group Name
+Group Name : I Love อ.ต้น
 
 1 **อภิวัฒน์** **เหลี่ยมสิงขร**      รหัส 623020545-4
 
