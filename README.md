@@ -18,4 +18,20 @@
 
 # สารบัญเนื้อหา
 
-* บทที่1 [Introduction](
+* บทที่1 [Introduction](https://github.com/gameaphiwat/DWDM21/blob/main/HW%201.pdf)
+  * Data Warehouse คืออะไร
+  * Data Mining คืออะไร
+  * ทำไมต้องทำ Data Mining
+  * ตัวอย่างข้อมูล
+  * การเรียกชื่ออื่น ๆ
+  * ลักษณะภาพรวม
+  * ขั้นตอนการทำข้อมูล
+  * หัวข้อที่จะเรียน
+
+* บทที่ 2 [Getting to Know Your Data](https://github.com/gameaphiwat/DWDM21/blob/main/HW%202.1.pdf)
+  * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
+  * ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
+  * ชนิดของข้อมูล
+  * คุณสมบัติที่สำคัญ
+  * ชนิดของ Attribute
+  * การนำค่าสถิติเข้ามาเกี่ยวข้อง
