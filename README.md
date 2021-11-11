@@ -36,4 +36,4 @@
   * ชนิดของ Attribute
   * การนำค่าสถิติเข้ามาเกี่ยวข้อง
 
-* บทที่ 3 [Data Preprocessing](https://github.com/gameaphiwat/DWDM21/blob/main/HW%202.1.pdf)
+* บทที่ 3 [Data Preprocessing](https://github.com/gameaphiwat/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
