@@ -187,7 +187,7 @@
   * Clustering
   * Example application (Color Quantization)
 
-[Data_Visualization)](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
+* [Data_Visualization)](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
   * Scatter plot
   * Plot
@@ -196,7 +196,7 @@
   * Stacked Barchart
   * Histrogram
 
-[Distance_Numpy)](https://github.com/gameaphiwat/DWDM21/blob/main/Distance_Numpy.ipynb)
+* [Distance_Numpy)](https://github.com/gameaphiwat/DWDM21/blob/main/Distance_Numpy.ipynb)
   * Numpy Array
   * สร้าง numpy array
   * สร้าง matrix เริ่มต้น (zeros,ones)
@@ -216,7 +216,7 @@
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
 
-* สอบมิดเทอม [Mini_Exam](https://github.com/gameaphiwat/DWDM21/blob/main/Mini_Exam.ipynb)
+* **สอบมิดเทอม** [Mini_Exam](https://github.com/gameaphiwat/DWDM21/blob/main/Mini_Exam.ipynb)
 
-* FinalProject [FinalProject](https://github.com/gameaphiwat/DWDM21/blob/main/FinalProject.ipynb)
+* **FinalProject** [FinalProject](https://github.com/gameaphiwat/DWDM21/blob/main/FinalProject.ipynb)
 
