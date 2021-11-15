@@ -119,9 +119,9 @@
   * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
   * Missing Values
   * Handling Misiing Value 1 (ลบค่า missing ออกไป)
-  * **Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %**
+  * **Quiz 3** ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
   * Handling Misiing Value 1.5 (ลบค่า missing เฉพาะในคอลัมม์ที่เราสนใจออกไป)
-  * **Quiz 3.1 ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %**
+  * **Quiz 3.1** ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
   * Handling Misiing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
   * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม)
   * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
@@ -134,19 +134,19 @@
   * การเรียงข้อมูล [PD]
   * Outlier
   * **Quiz 5**
-  * Quiz กลุ่ม
+  * **Quiz กลุ่ม**
   * การรวมตาราง (ต่อตารางในแนวแกน x) Data Integration
   * รวม 2 ตาราง (.merge())
   * เอาเฉพาะคอลลัมม์ที่เราต้องการมาแปะ (.map())
   * Project กลุ่ม
   * Group by (pandas)
-  * การบ้าน + Quiz
+  * **การบ้าน + Quiz**
   * save ตารางเอาไปใช้ที่อื่น
   * การสร้างตาราง
 
 * บทที่ 6 [Chapter_6_Association_Rules](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * ลบ records ที่ถูก cancel ออกไป
-  * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+  * **การบ้านครั้งที่ 13** วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
   * **Quiz 7**
@@ -162,7 +162,7 @@
   * Start here
   * Train - Test
   * Train - Validation
-  * การบ้านครั้งที่ 16
+  * **การบ้านครั้งที่ 16**
 
 * บทที่ 7 [Chap7_Classification_(KNN_NN))](https://github.com/gameaphiwat/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
   * Load data
@@ -193,7 +193,7 @@
   * Visuliazation
   * Scatter plot
   * Plot
-  * ควิซกลุ่ม
+  * **Quizกลุ่ม**
   * Bar chart
   * Stacked Barchart
   * Histrogram
@@ -215,7 +215,7 @@
   * คำนวณระยะห่าง dist(P2,P4)
   * Distance function
   * **Quiz 6**
-  * การบ้านครั้งที่ 11
+  * **การบ้านครั้งที่ 11**
   * Distance of Binary Value
 
 * **สอบมิดเทอม** [Mini_Exam](https://github.com/gameaphiwat/DWDM21/blob/main/Mini_Exam.ipynb)
