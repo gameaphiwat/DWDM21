@@ -105,6 +105,7 @@
   * ลักษณะตัวอย่างที่ (ไม่มี output)
   * ลักษณะตัวอย่าง (ไม่มี input และ output)
   * ลักษณะของ input (พารามิเตอร์)
+  * **Quiz 2**
 
 * บทที่ 2 [Data102_(Chapter2)](https://github.com/gameaphiwat/DWDM21/blob/main/Data102_(Chapter2).ipynb)
   * Nan = not a Number (ช่องว่าง)
