@@ -118,9 +118,9 @@
   * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
   * Missing Values
   * Handling Misiing Value 1 (ลบค่า missing ออกไป)
-  * Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+  * **Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %**
   * Handling Misiing Value 1.5 (ลบค่า missing เฉพาะในคอลัมม์ที่เราสนใจออกไป)
-  * Quiz 3.1 ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
+  * **Quiz 3.1 ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %**
   * Handling Misiing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
   * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม)
   * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
@@ -128,11 +128,11 @@
   * Select data by values [PD] คำสั่งแพนด้า
   * ขั้นตอนสร้าง list ของ boolen
   * สร้าง list ของ boolen
-  * Quiz 4 + การบ้าน
+  * **Quiz 4 + การบ้าน**
   * ต่อตารางแนวแกน Y [PD]
   * การเรียงข้อมูล [PD]
   * Outlier
-  * Quiz 5
+  * **Quiz 5**
   * Quiz กลุ่ม
   * การรวมตาราง (ต่อตารางในแนวแกน x) Data Integration
   * รวม 2 ตาราง (.merge())
@@ -148,7 +148,7 @@
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
-  * (Quiz 7)
+  * **Quiz 7**
 
 * บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
   * Load Data
@@ -207,13 +207,13 @@
   * Useful Function
   * วนลูปเอง
   * Summation
-  * Quiz กลุ่ม
+  * **Quiz กลุ่ม**
   * Distance Matrix
   * Euclidean Distance (L2-norm)
   * คำนวณระยะห่าง dist(P1,P2)
   * คำนวณระยะห่าง dist(P2,P4)
   * Distance function
-  * Quiz 6
+  * **Quiz 6**
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
 
