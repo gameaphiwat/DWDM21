@@ -146,9 +146,10 @@
 * บทที่ 6 [Chapter_6_Association_Rules](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * ลบ records ที่ถูก cancel ออกไป
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
-  * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
   * (Quiz 7)
+
 * บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
   * Load Data
   * train (ฝึกสอนตัวแบบ)
