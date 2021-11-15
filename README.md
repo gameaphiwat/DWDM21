@@ -98,7 +98,7 @@
   * Loop
   * Nested loop ลูบซ้อนลูบ
   * Condition (if statement)
-  * Quiz 1 หา max
+  * **Quiz 1 หา max**
   * การบ้านที่ 3 หาเกรด
   * Function
   * ลักณะตัวอย่าง (ไม่มี input)
