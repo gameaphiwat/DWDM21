@@ -19,7 +19,7 @@
 # สารบัญเนื้อหา
 
 * บทที่1 [Introduction](https://github.com/gameaphiwat/DWDM21/blob/main/HW%201.pdf)
-  * 
+  * Data Warehouse คืออะไร
   * Data Mining คืออะไร
   * ทำไมต้องทำ Data Mining
   * ตัวอย่างข้อมูล
