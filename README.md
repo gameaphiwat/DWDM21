@@ -186,7 +186,7 @@
 * บทที่ 8 [Chap_8_Clustering)](https://github.com/gameaphiwat/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
   * Clustering
-  * Example application (Color Quantization)
+  * Example application(Color Quantization)
 
 * [Data_Visualization)](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
