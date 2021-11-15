@@ -98,14 +98,14 @@
   * Loop
   * Nested loop ลูบซ้อนลูบ
   * Condition (if statement)
-  * **Quiz 1 หา max**
+  * ####**Quiz 1 หา max**
   * การบ้านที่ 3 หาเกรด
   * Function
   * ลักณะตัวอย่าง (ไม่มี input)
   * ลักษณะตัวอย่างที่ (ไม่มี output)
   * ลักษณะตัวอย่าง (ไม่มี input และ output)
   * ลักษณะของ input (พารามิเตอร์)
-  * **Quiz 2**
+  * ####**Quiz 2**
 
 * บทที่ 2 [Data102_(Chapter2)](https://github.com/gameaphiwat/DWDM21/blob/main/Data102_(Chapter2).ipynb)
   * Nan = not a Number (ช่องว่าง)
@@ -119,9 +119,9 @@
   * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
   * Missing Values
   * Handling Misiing Value 1 (ลบค่า missing ออกไป)
-  * **Quiz 3** ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+  * ####**Quiz 3** ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
   * Handling Misiing Value 1.5 (ลบค่า missing เฉพาะในคอลัมม์ที่เราสนใจออกไป)
-  * **Quiz 3.1** ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
+  * ####**Quiz 3.1** ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
   * Handling Misiing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
   * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม)
   * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
