@@ -220,5 +220,5 @@
 
 * **สอบมิดเทอม** [Mini_Exam](https://github.com/gameaphiwat/DWDM21/blob/main/Mini_Exam.ipynb)
 
-* **[FinalProject]**([FinalProject](https://github.com/gameaphiwat/DWDM21/blob/main/FinalProject.ipynb))
+* **FinalProject**([FinalProject](https://github.com/gameaphiwat/DWDM21/blob/main/FinalProject2.ipynb)
 
