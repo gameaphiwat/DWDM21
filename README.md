@@ -164,7 +164,7 @@
   * Train - Validation
   * **การบ้านครั้งที่ 16**
 
-* บทที่ 7 [Chap7_Classification_(KNN_NN))](https://github.com/gameaphiwat/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+* บทที่ 7 [Chap7_Classification_(KNN_NN)](https://github.com/gameaphiwat/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
   * Load data
   * Split Data
   * Train Model
@@ -177,7 +177,7 @@
   * ANN 2
   * ANN 3
 
-* บทที่ 7 [Chapter_7_Classification_(Evaluation))](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
+* บทที่ 7 [Chapter_7_Classification_(Evaluation)](https://github.com/gameaphiwat/DWDM21/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
   * Load data
   * แบ่ง data
   * สร้าง model ทำนาย
