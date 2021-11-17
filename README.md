@@ -70,13 +70,11 @@
 * บทที่ 8 [Classification:Basic Concepts](https://github.com/gameaphiwat/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%208.pdf)
   * ลักษณะการสร้างโมเดลแบบมีผู้สอน
   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
-  * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
+  * การทำนายปัญหา ระหว่าง Classification กับ การใช้ทำนายตัวเลข
   * การสร้างโมเดลแบบจำลอง
   * Decision Tree ต้นไม้ตัดสินใจ
   * หลักการสร้างตาราง
   * ตัวอย่างในการหาค่าต่าง ๆ
-  * Gini Index
-  * การหาค่า Gini
   * Naive Bayes Classfier
   * Linear Regreesion
 
