@@ -184,7 +184,7 @@
   * Train - Test
   * Evalution
 
-* บทที่ 8 [Chap_8_Clustering)](https://github.com/gameaphiwat/DWDM21/blob/main/Chap8Clustering.ipynb)
+* บทที่ 8 [Chap_8_Clustering](https://github.com/gameaphiwat/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
   * Generat Data
   * Explole data
@@ -196,7 +196,7 @@
   * Hierachical Clustering
   * Clustering Evaluation
 
-* [Data_Visualization)](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
+* Data Visualization [Data_Visualization](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
   * Scatter plot
   * Plot
@@ -205,7 +205,7 @@
   * Stacked Barchart
   * Histrogram
 
-* [Distance_Numpy)](https://github.com/gameaphiwat/DWDM21/blob/main/Distance_Numpy.ipynb)
+* Distance Numpy [Distance_Numpy](https://github.com/gameaphiwat/DWDM21/blob/main/Distance_Numpy.ipynb)
   * Numpy Array
   * สร้าง numpy array
   * สร้าง matrix เริ่มต้น (zeros,ones)
@@ -228,4 +228,6 @@
 * **สอบมิดเทอม** [Mini_Exam](https://github.com/gameaphiwat/DWDM21/blob/main/Mini_Exam.ipynb)
 
 * **FinalProject** [FinalProject](https://github.com/gameaphiwat/DWDM21/blob/main/FinalProject2.ipynb)
+
+* **สไลค์ FinalProject** [Slide Project](https://github.com/gameaphiwat/DWDM21/blob/main/Slide%20Project.pdf)
 
