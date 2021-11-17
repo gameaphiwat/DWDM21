@@ -186,8 +186,15 @@
 
 * บทที่ 8 [Chap_8_Clustering)](https://github.com/gameaphiwat/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
+  * Generat Data
+  * Explole data
   * Clustering
-  * Example application(Color Quantization)
+  * นับจำนวนสี
+  * จัดกลุ่มสีให้เหลือ 16 สี
+  * ใช้ centroid เป็นตัวแทนของสี
+  * แทนสีคืนลงไป
+  * Hierachical Clustering
+  * Clustering Evaluation
 
 * [Data_Visualization)](https://github.com/gameaphiwat/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
