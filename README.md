@@ -30,11 +30,11 @@
 
 * บทที่ 2 [Getting to Know Your Data](https://github.com/gameaphiwat/DWDM21/blob/main/HW%202.1.pdf)
   * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
-  * ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
+  * ขนาดของข้อมูล
   * ชนิดของข้อมูล
-  * คุณสมบัติที่สำคัญ
-  * ชนิดของ Attribute
-  * การนำค่าสถิติเข้ามาเกี่ยวข้อง
+  * คุณสมบัติ
+  * ลักษณะสำคัญของข้อมูล
+  * ข้อมูลที่เป็นตัวเลข
 
 * บทที่ 3 [Data Preprocessing](https://github.com/gameaphiwat/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%203.pdf)
   * Data Cleaning คืออะไร 
